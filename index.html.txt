@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Logan Fulker Is a Goat - Clothing Brand</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#shop">Shop</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <h1>Logan Fulker Is a Goat</h1>
+  </header>
+  
+  <section id="home">
+    <h2>Welcome to Logan Fulker Is a Goat</h2>
+    <p>Discover our unique and stylish clothing line that embodies the spirit of Logan Fulker!</p>
+  </section>
+  
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Logan Fulker Is a Goat is a clothing brand inspired by the greatness and creativity of Logan Fulker. Our mission is to provide high-quality, fashionable clothing for people who appreciate Logan's unique style and vision.</p>
+  </section>
+  
+  <section id="shop">
+    <h2>Shop Our Collection</h2>
+    <!-- Add product images and descriptions here -->
+  </section>
+  
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>If you have any questions or concerns, please feel free to reach out to us at:</p>
+    <p>Email: info@loganfulkerisagoat.com</p>
+  </section>
+  
+  <footer>
+    <p>&copy; 2023 Logan Fulker Is a Goat. All rights reserved.</p>
+  </footer>
+</body>
+</html>
